@@ -63,3 +63,5 @@ TABS DETAILING:
   This is a powerful tool which calculates nightly statistics of the observation and sends required informations to report database.
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/nightreportsummary.png" alt="nightreport.png" width="228">
+  
+  Due to corporate concerns, source codes are not shared. Please contact orhan.erece@tubitak.gov.tr for more technical informations.
