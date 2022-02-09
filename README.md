@@ -42,10 +42,8 @@ SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)
   
   
 
-
-
 - **Night Report**
   
+  This is a powerful tool which calculates nightly statistics of the observation and sends required informations to report database.
   
-
-<img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/nightreport.png" alt="nightreport.png" width="228">
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/nightreportsummary.png" alt="nightreport.png" width="228">
