@@ -22,11 +22,8 @@ TABS DETAILING:
   
   In this tab, one can move the telescope to the coordinates, create directories in specified path, check the field and visibility of given coordinates. Instant observability of the given coordinates can be seen as "Yes" or "No" in Visibility column shows.
   
-  ![obsinfo.png](https://github.com/orhanerece/nightassistant/blob/master/img/obsinfo.png)
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/obsinfo.png" alt="focus.png" width="228">
   
-  
-  
-  ![obsinfo](https://github.com/orhanerece/nightassistant/blob/master/img/obsinfo.png)
 
 <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="283">   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="341">
 
@@ -36,7 +33,7 @@ TABS DETAILING:
   
   In this tab, there is optimized focus model on the left depends on altitude. One may adjust the focus value using "Adjust" button after selecting a value from the list. "JOG" buttons and "Go To Focus" button can also be used to control focus. Besides, live ASC image and current meteo values can be seen right bottom. 
 
-<img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/focus.png" alt="focus.png" width="228">
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/focus.png" alt="focus.png" width="228">
 
 - **XCCD**
   
