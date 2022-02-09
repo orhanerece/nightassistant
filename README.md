@@ -41,3 +41,7 @@ SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)
 
 
 - **Night Report**
+  
+  ![nightreport](https://github.com/orhanerece/nightassistant/blob/master/img/nightreport.png)
+
+![image](https://github.com/orhanerece/nightassistant/blob/master/img/nightreport.png)
