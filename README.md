@@ -12,4 +12,4 @@ Tabs:
 
 SkyMap - View and Visibility - Yes/No Button
 
-<img title="" src="file:///home/orhan/Desktop/testna/nightassistant/img/View.png" alt="" width="283">   <img title="" src="file:///home/orhan/Desktop/testna/nightassistant/img/Plot.png" alt="" width="341">
+<img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="283">   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="341">
