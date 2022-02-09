@@ -20,7 +20,7 @@ TABS DETAILING:
 
 - **Observation Info**
   
-  In this tab, one can move the telescope to the coordinates, create directories in specified path, check the field and visibility of given coordinates. Instant observability of the given coordinates can be seen as "Yes" or "No" in Visibility column shows.
+  In this tab, one can move the telescope to the coordinates, create directories in specified path, check the field and visibility of given coordinates. Instant observability of the given coordinates can be seen as "Yes" or "No" in Visibility column.
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/obsinfo.png" alt="focus.png" width="228">
   
@@ -40,7 +40,7 @@ TABS DETAILING:
   
   
   
-  Easy calculation of pixel based pointing offset
+  Easy calculation of pixel based pointing offset.
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/xccd.png" alt="xccd.png" width="228">
   
@@ -64,4 +64,4 @@ TABS DETAILING:
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/nightreportsummary.png" alt="nightreport.png" width="228">
   
-***Due to corporate concerns, source codes are not shared. Please contact orhan.erece@tubitak.gov.tr for more technical informations.***
+***Due to corporate concerns, source codes are not public. Please, contact orhan.erece@tubitak.gov.tr for more technical informations.***
