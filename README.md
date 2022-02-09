@@ -2,7 +2,9 @@
 
 TUBITAK National Observatory, T100 telescope control software
 
-Tabs detailing:
+
+
+TABS DETAILING:
 
 
 
@@ -26,7 +28,7 @@ SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)
   
   Easy calculation of pixel based pointing offset
   
-  ![](https://github.com/orhanerece/nightassistant/blob/master/img/xccd.png)
+  ![xccd.png](https://github.com/orhanerece/nightassistant/blob/master/img/xccd.png)
 
 - **Meteo**
   
@@ -34,7 +36,7 @@ SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)
   
   Live meteo values are displaying on this tab. RTT150 and T60 telescope meteo connection are optional while default meteo connection is T100. 
   
-  ![](https://github.com/orhanerece/nightassistant/blob/master/img/meteo.png)
+  ![meteo.png](https://github.com/orhanerece/nightassistant/blob/master/img/meteo.png)
 
 
 
