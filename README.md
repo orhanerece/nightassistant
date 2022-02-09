@@ -28,7 +28,9 @@ SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)
   
   Easy calculation of pixel based pointing offset
   
-  ![xccd.png](https://github.com/orhanerece/nightassistant/blob/master/img/xccd.png)
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/xccd.png" alt="xccd.png" width="228">
+  
+  
 
 - **Meteo**
   
@@ -36,12 +38,14 @@ SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)
   
   Live meteo values are displaying on this tab. RTT150 and T60 telescope meteo connection are optional while default meteo connection is T100. 
   
-  ![meteo.png](https://github.com/orhanerece/nightassistant/blob/master/img/meteo.png)
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/meteo.png" alt="meteo.png" width="228">
+  
+  
 
 
 
 - **Night Report**
   
-  ![nightreport](https://github.com/orhanerece/nightassistant/blob/master/img/nightreport.png)
+  
 
-![image](https://github.com/orhanerece/nightassistant/blob/master/img/nightreport.png)
+<img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/nightreport.png" alt="nightreport.png" width="228">
