@@ -28,7 +28,7 @@ TABS DETAILING:
   
   ![obsinfo](https://github.com/orhanerece/nightassistant/blob/master/img/obsinfo.png)
 
-<img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="283">   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="341">
+<img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="283">   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="341">
 
         *SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)*
 
