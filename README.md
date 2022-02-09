@@ -25,8 +25,8 @@ TABS DETAILING:
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/obsinfo.png" alt="focus.png" width="228">
   
 
-  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="228">   
-  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="228">
+    <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="228">   
+      <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="270">
 
         *SkyMap - View Button (left image) and Visibility - Yes/No Button (right image)*
 
