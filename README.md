@@ -64,4 +64,4 @@ TABS DETAILING:
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/nightreportsummary.png" alt="nightreport.png" width="228">
   
-  Due to corporate concerns, source codes are not shared. Please contact orhan.erece@tubitak.gov.tr for more technical informations.
+  ***Due to corporate concerns, source codes are not shared. Please contact orhan.erece@tubitak.gov.tr for more technical informations.***
