@@ -56,6 +56,19 @@ TABS DETAILING:
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/4.png" alt="meteo.png" width="228">
   
+    
+  
+
+
+
+- **Solar System**
+  
+  
+  
+  On this tab, one can search current positional and physical ephemerides of all known solar system objects  
+  
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/5.png" alt="meteo.png" width="228">
+  
   
 
 - **Night Report**
