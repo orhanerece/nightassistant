@@ -34,7 +34,7 @@ TABS DETAILING:
   
   In this tab, there is optimized focus model on the left depends on altitude. One may adjust the focus value using "Adjust" button after selecting a value from the list. "JOG" buttons and "Go To Focus" button can also be used to control focus. Besides, live ASC image and current meteo values can be seen right bottom. 
 
-  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/focus.png" alt="focus.png" width="228">
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/2.png" alt="focus.png" width="228">
 
 - **XCCD**
   
@@ -42,7 +42,7 @@ TABS DETAILING:
   
   Easy calculation of pixel based pointing offset.
   
-  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/xccd.png" alt="xccd.png" width="228">
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/3.png" alt="xccd.png" width="228">
   
   
 
@@ -54,7 +54,7 @@ TABS DETAILING:
   
   Live meteo values are displaying on this tab. RTT150 and T60 telescope meteo connection are optional while default meteo connection is T100. 
   
-  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/meteo.png" alt="meteo.png" width="228">
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/4.png" alt="meteo.png" width="228">
   
   
 
@@ -62,6 +62,6 @@ TABS DETAILING:
   
   This is a powerful tool which calculates nightly statistics of the observation and sends required informations to report database.
   
-  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/nightreportsummary.png" alt="nightreport.png" width="228">
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/6.png" alt="nightreport.png" width="228">
   
 ***Due to corporate concerns, source codes are not public. Please, contact orhan.erece@tubitak.gov.tr for more technical informations.***
