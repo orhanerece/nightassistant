@@ -28,7 +28,7 @@ TABS DETAILING:
     <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="228">   
     <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="270">
 
-        *Image of NightAssistant software (left), Image of SkyMap - View Button (center) and Visibility - Yes/No Button (right)*
+        *Image of Solar System tab (left), Image of SkyMap Button (center) and ObsChart Button (right)*
 
 - **Focus**
   
@@ -69,8 +69,9 @@ TABS DETAILING:
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/5.png" alt="meteo.png" width="228">
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/2059.png" alt="2059.png" width="228">
+  <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="270">
   
-  
+   *Image of NightAssistant software (left), Image of SkyMap - View Button (center) and Visibility - Yes/No Button (right)*
 
 - **Night Report**
   
