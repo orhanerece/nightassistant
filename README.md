@@ -65,7 +65,7 @@ TABS DETAILING:
   
   
   
-  On this tab, one can search current positional and physical ephemerides of all known solar system objects  
+  In this tab, one can search instant positional and physical ephemerides of all known solar system objects. If object is observable at the time informations generated then GoTo button shows up to slew telescope to the object. Besides, SkyMap button brings the sky image of the coordinate and red line indicates the object's moving direction as well as amount of displacement in one hour while ObsChart brings visibility chart of the coordinate. 
   
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/5.png" alt="meteo.png" width="228">
   <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/2059.png" alt="2059.png" width="228">
