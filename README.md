@@ -28,7 +28,7 @@ TABS DETAILING:
     <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/View.png" alt="" width="228">   
     <img title="" src="https://github.com/orhanerece/nightassistant/blob/master/img/Plot.png" alt="" width="270">
 
-        *Image of Solar System tab (left), Image of SkyMap Button (center) and ObsChart Button (right)*
+        *Image of Observation Info tab (left), Image of SkyMap Button (center) and ObsChart Button (right)*
 
 - **Focus**
   
